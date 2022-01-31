@@ -203,7 +203,7 @@ var sprotCar = SportCarLife(brand: "BMW", yearCar: 2020, baggageVolume: 1500, sp
 var truckCar = TruckCar(brand: "MAN", yearCar: 1990, baggageVolume: 50000, volumeTank: 500)
 
 
-// MARK: - Действия с объекстами
+// MARK: - Действия с объектами
 
 sprotCar.CarInfo()
 sprotCar.ActionCar(type: .OpenWindow)
